@@ -17,7 +17,7 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCKT_FBpDeZsb5Vxvq0LTUxg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/carolina-toledo-b3b551282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/karoltoledo/karoltoledo/blob/output/github-contribution-grid-snake.svg)
 
